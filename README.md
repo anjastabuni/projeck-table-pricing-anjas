@@ -1,2 +1,2 @@
-# table-pricing-part1-anjas
-studi kasus membuat tabel pricing 
+# studi kasus membuat tabel pricing 
+## link demo https://anjastabuni.github.io/projeck-table-pricing-anjas/
